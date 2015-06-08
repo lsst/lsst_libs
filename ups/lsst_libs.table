@@ -1,4 +1,3 @@
-setupRequired(lsst_thirdparty)
 setupRequired(daf_persistence)
 setupRequired(pex_config)
 setupRequired(ndarray)
